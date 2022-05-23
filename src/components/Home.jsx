@@ -1,7 +1,5 @@
 import react, { Fragment, useEffect, useState } from 'react';
 import { useNavigate ,Link } from "react-router-dom";
-import Register from './Register';
-import MoreInformation from './MoreInformation';
 
 const Home = () => {
     
