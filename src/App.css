@@ -36,3 +36,11 @@
     transform: rotate(360deg);
   }
 }
+h1{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-weight: 300;
+  text-align: center;
+  font-size: 40px;
+  margin-top: 50px;
+  color: rgb(13, 20, 18);
+}
